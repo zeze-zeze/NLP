@@ -1,0 +1,32 @@
+Team; 
+Team: Team Golf -6 
+Team: Team Oscar -2
+Team: Team Romeo -3
+Team: Team Sierra -10
+Team: Team Tango -1
+Team: Team Edward -3
+Team: Team Mike -6
+Team: Team Kilo -2
+Team: Team India -7
+Team: Team X-Ray -2
+Team: Team Butter -1
+Team: Team Foxtrot -5
+Team: Team_Ink -2
+Team: Team Yankee -8
+Team: Team Zulu -13 
+Team: Team Papa -3
+Team: team November -9 
+Team: Team Victor -6
+Team: Team King -1
+Team: Team Delta -3
+Team: Team Charlie -5 
+Team: Team Lima -6
+Team: Team Alpha -2
+Team: Team Brave -1
+Team: Team_Freddy -4
+Team: Team-Uniform -6
+Team: TeamApple -2
+Team: TeamJuliet -7
+Team: Yao -1
+Team: Brett -12
+Team: jchsieh -6
